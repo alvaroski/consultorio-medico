@@ -1,2 +1,2 @@
-ConsultorioMedico
+consultorio-medico
 =================
